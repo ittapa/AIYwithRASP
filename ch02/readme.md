@@ -9,17 +9,29 @@ samba 서버 설치
  1) sudo apt-get install samba samba-common-bin
  2) sudo smbpasswd -a pi     //pi 계정 추가
  3) sudo nano /etc/samba/smb.conf
+ 
     맨 밑줄에 추가
+    
     [pi]
+    
     path=/home/pi
+    
     comment=PI SAMBA SERVER
+    
     valid user = pi
+    
     path=/home/pi/
+    
     read only=no
+    
     browseable=yes
+    
     create mask=0777
+    
     public=yes
+    
     guest ok=no
+    
     
     ctrl + o :저장
     ctrl + x :종료
