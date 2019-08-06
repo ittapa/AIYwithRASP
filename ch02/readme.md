@@ -28,3 +28,7 @@ samba 서버 설치
   5) 권한설정
      - 테라텀 접속후
       sudo chmod 777 /home/pi
+      
+      
+wiringPi
+      --http://wiringpi.com/reference/setup/
