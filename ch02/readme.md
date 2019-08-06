@@ -32,3 +32,18 @@ samba 서버 설치
       
 wiringPi
       --http://wiringpi.com/reference/setup/
+      
+
+gpio
+셀 명령어
+ --- /usr/bin/gpio
+gpio readall
+gpio mode 1 out
+gpio write 1 1
+gpio write 1 0
+
+bcm gpio 핀 번호를 이용한 제어
+gpio -g mode 18 out
+gpio -g write 18 1
+gpio -g write 18 0
+
