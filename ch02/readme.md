@@ -1,3 +1,7 @@
+텍스트 에디터 visual stuideocode 설치
+https://code.visualstudio.com/download
+
+
 xrdp(원격데스크톱 설치)
 sudo apt-get install xrdp
 
