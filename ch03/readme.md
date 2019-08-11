@@ -11,11 +11,12 @@ visual studio code 설치
 LED + BTN
 
 C언어를 활용한 GPIO 핀제어
- - LED on/off 반복코드 작성
- - LED PWM 제어 코드 작성-실행
- - BTN code 작성-실행
- - BTN활용한 LED 제어 코드 작성 ( led 대신 dc모터 연결해보기)
- - btn 대신 인체감지 센서 활용 https://www.diymaker.net/113
+ - LED on/off 반복코드 작성 (01-led_for.c)
+ - LED PWM 제어 코드 작성-실행 ( 02-led_pwm.c)
+ - BTN code 작성-실행 ( 03-btn_onoff.c)
+ - BTN활용한 LED 제어 코드 작성 (04-btn+led.c)
+   + led 대신 dc모터 연결해보기)
+   + btn 대신 인체감지 센서 활용 https://www.diymaker.net/113
  
  - pwm servo 모터 제어
  
