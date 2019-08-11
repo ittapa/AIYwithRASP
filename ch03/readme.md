@@ -21,6 +21,7 @@ C언어를 활용한 GPIO 핀제어
  
  - pwm servo 모터 제어
  
+ - buzzer 제어
  
 
 PYTHON 코드 작성
