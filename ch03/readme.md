@@ -15,6 +15,7 @@ C언어를 활용한 GPIO 핀제어
  - LED PWM 제어 코드 작성-실행 ( 02-led_pwm.c)
  - BTN code 작성-실행 ( 03-btn_onoff.c)
  - BTN활용한 LED 제어 코드 작성 (04-btn+led.c)
+   + 블럭식코딩으로 해보기(스크래치)
    + led 대신 dc모터 연결해보기)
    + btn 대신 인체감지 센서 활용 https://www.diymaker.net/113
  
@@ -23,6 +24,9 @@ C언어를 활용한 GPIO 핀제어
  
 
 PYTHON 코드 작성
+
+
+
  - LED on / off 반복 코드 작성
  - BTN code 작성
  - BTN 활용한 LED 제어 코드 작성
