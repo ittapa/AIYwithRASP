@@ -25,12 +25,22 @@ C언어를 활용한 GPIO 핀제어
  
 
 PYTHON 코드 작성
-
+ -https://studymake.tistory.com/498
+ -python3
+ -python2
+ import Rpi.GPIO as GPIO
+ GPIO.setmode(GPIO.BOARD)
+ GPIO.setmode(GPIO.BCM)
+ GPIO.
 
 
  - LED on / off 반복 코드 작성
  - BTN code 작성
  - BTN 활용한 LED 제어 코드 작성
+ 
+ 
+ 
+ 
  
 
 
