@@ -4,8 +4,9 @@ teraterm 접속
 
 vnc viewer 접속
 
-samba server 접속 \\raspberrypi.mshome.net
+samba server 접속 \\\raspberrypi.mshome.net
 
+--------------------------------------------
 회로도1 LED + BTN
 
 
