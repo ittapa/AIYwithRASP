@@ -1,6 +1,6 @@
 설정확인
 
-teraterm 접속
+teraterm 접속 \n
 vnc viewer 접속
 samba server 접속 \raspberrypi.mshome.net
 
