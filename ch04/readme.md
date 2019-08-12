@@ -21,14 +21,14 @@ pwm servo 모터 제어
 buzzer 제어
 
 ---------------------------------------
-PYTHON 코드 작성 -https://studymake.tistory.com/498 
--python3 
-#import Rpi.GPIO as GPIO 
-#GPIO.setmode(GPIO.BOARD) 
-#GPIO.setmode(GPIO.BCM)
-#GPIO.setup(12, GPIO.OUT, initial=GPIO.LOW)
-#GPIO.output(12, GPIO.HIGH)
-#GPIO.output(12, GPIO.LOW)
+# PYTHON 코드 작성 -https://studymake.tistory.com/498 
+## python3 
+### import Rpi.GPIO as GPIO 
+### GPIO.setmode(GPIO.BOARD) 
+### GPIO.setmode(GPIO.BCM)
+### GPIO.setup(12, GPIO.OUT, initial=GPIO.LOW)
+### GPIO.output(12, GPIO.HIGH)
+### GPIO.output(12, GPIO.LOW)
 
 
 
