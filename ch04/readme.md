@@ -11,8 +11,11 @@ samba server 접속 \\\raspberrypi.mshome.net
 
 
 블럭식코딩으로 해보기(스크래치)
+
 led 대신 dc모터 연결해보기)
+
 btn 대신 인체감지 센서 활용 https://www.diymaker.net/113
+
 pwm servo 모터 제어
 
 buzzer 제어
