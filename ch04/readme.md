@@ -30,5 +30,10 @@ GPIO.output(12, GPIO.LOW)
 
 
 LED on / off 반복 코드 작성
+
 BTN code 작성
+
 BTN 활용한 LED 제어 코드 작성
+
+python GUI 툴킷
+http://pythonstudy.xyz/python/article/120-Tkinter-%EC%86%8C%EA%B0%9C
