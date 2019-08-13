@@ -18,11 +18,11 @@ int main()
 	softPwmCreate(SERVO,0,200);
 
 
-    softPwmWrite(SERVO,15); //0 degree
+    softPwmWrite(SERVO, 15); //0 degree
     delay(500);
-	softPwmWrite(SERVO,24); //90 degree
+	softPwmWrite(SERVO, 24); //90 degree
     delay(500);
-	softPwmWrite(SERVO,5); //-90 degree
+	softPwmWrite(SERVO, 5); //-90 degree
     delay(500);
 	
 	return 0;
