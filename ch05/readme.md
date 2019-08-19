@@ -7,6 +7,12 @@
 
 ### 접속 실패시 네트워크 공유 설정 재시도
 
+
+### python led 코드 실행 
+#### mode : Baord
+#### mode : BCM
+
+
 # led PWM 제어
 
 # BTN 제어
