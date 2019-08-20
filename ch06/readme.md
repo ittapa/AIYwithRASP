@@ -62,3 +62,6 @@
 - https://bluexmas.tistory.com/826
 - http://www.rasplay.org/?p=7174
 
+
+# 오디오 마이크 설정
+
