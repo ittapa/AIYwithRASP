@@ -3,7 +3,7 @@
 
 ### vnc viewer 접속
 
-### samba server 접속 \\raspberrypi.mshome.net
+### samba server 접속 \\\\raspberrypi.mshome.net
 
 ### 접속 실패시 네트워크 공유 설정 재시도
 
