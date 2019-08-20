@@ -64,4 +64,5 @@
 
 
 # 오디오 마이크 설정
-
+ - 참고링크
+  https://developers.google.com/assistant/sdk/guides/library/python/embed/audio
