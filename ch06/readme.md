@@ -16,7 +16,10 @@
 
 ### 카메라 사용설정
 #### 환경설정 camera enabled
+    - reboot
+    
 #### 카메라 포트에 연결
+
 
 #### 연결확인 명령어
 - vcgencmd get_camera
@@ -31,6 +34,12 @@
 #### 터미널 명령어를 활용한 카메라 사용
 - raspistill -o image.jpg
 - raspistill -vf -w 360, -h 280 -o pic.jpg
+
+- raspistill --help
+  + 명령어 지원 옵션 확인하기
+
+### 파이썬 라이버러리 picamera 활용하기
+
 
 
 # 카메라 관련 오픈소스 다운로드 / 설치하기
