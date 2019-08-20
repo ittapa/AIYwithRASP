@@ -39,6 +39,8 @@
   + 명령어 지원 옵션 확인하기
 
 ### 파이썬 라이버러리 picamera 활용하기
+- 참고링크
+ + http://www.hardcopyworld.com/gnuboard5/bbs/board.php?bo_table=lecture_rpi&wr_id=11
 
 
 
