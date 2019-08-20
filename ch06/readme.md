@@ -14,6 +14,7 @@
 - http://www.3demp.com/community/boardDetails.php?cbID=236
 
 
+
 ### 카메라 사용설정
 #### 환경설정 camera enabled
     - reboot
@@ -31,6 +32,7 @@
 - sudo nano /etc/modules
     + bcm2835-v4l2
 
+
 #### 터미널 명령어를 활용한 카메라 사용(사진촬영)
 - raspistill -o image.jpg
 - raspistill -vf -w 360, -h 280 -o pic.jpg
@@ -47,7 +49,9 @@
     -s -> signal 모드(신호가 들어오면 촬영)
     -br -> 밝기 조정(0~100)
     
+    
 #### 터미널 명령어를 활용한 카메라 사용(영상촬영)
+
 
 
 ### 파이썬 라이버러리 picamera 활용하기
@@ -57,10 +61,12 @@
 
 
 
+
 # 카메라 관련 오픈소스 다운로드 / 설치하기
 - 관련 링크
 - https://bluexmas.tistory.com/826
 - http://www.rasplay.org/?p=7174
+
 
 
 # 오디오 마이크 설정
