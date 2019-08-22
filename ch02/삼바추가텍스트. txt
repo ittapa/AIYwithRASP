@@ -1,0 +1,17 @@
+[pi]
+    
+    path=/home/pi
+    
+    comment=PI SAMBA SERVER
+    
+    valid user = pi
+   
+    read only=no
+    
+    browseable=yes
+    
+    create mask=0777
+    
+    public=yes
+    
+    guest ok=no
