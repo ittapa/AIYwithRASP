@@ -5,7 +5,8 @@
           
 
 ## python3 환경 설정
-(Python3 사용권장)
+      (Python3 사용권장)    
+
       sudo apt-get update
       sudo apt-get install python3-dev python3-venv
       python3 -m venv env
