@@ -13,3 +13,12 @@
       
       
       
+### 인증주소 복사 열기
+      로그인 
+      허용
+      코드 복사
+      Enter the authorization code:
+      붙여넣기 인증
+      완료메시지: credentials saved: /path/to/.config/google-oauthlib-tool/credentials.json
+      
+      
