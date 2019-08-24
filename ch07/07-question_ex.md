@@ -1,6 +1,9 @@
 
 # 질문 예시
 
+## sing song
+
+
 ## 사람 who is ??????????
     who is the mon jae in
     who is the trump
@@ -19,6 +22,8 @@
         
 ## STOCK
     --- STOCK
+    how about ____ stock
+    
     
 ## 위치 where is the 
         
