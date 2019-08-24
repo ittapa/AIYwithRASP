@@ -9,7 +9,8 @@
      aplay -l
     
   ## 설정 파일 생성 (경로: /home/pi)
-     sudo nano .soundrc
+    sudo nano .asoundrc
+
     
     pcm.!default {
       type asym
