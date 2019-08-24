@@ -3,13 +3,13 @@
 
 ### 오디오 설정
   ## 마이크 연결 확인 (넘버 확인)
-    - arecord -l
+     arecord -l
     
   ## 스피커 연결 확인 (넘버확인)
-    - aplay -l
+     aplay -l
     
   ## 설정 파일 생성 (경로: /home/pi)
-    - sudo nano .soundrc
+     sudo nano .soundrc
     
     pcm.!default {
       type asym
@@ -30,14 +30,14 @@
     }
     
   ## 소리 볼륨
-     - alsamixer
+      alsamixer
      
   ## 스피커 테스트
-     - speaker-test -t wav
+      speaker-test -t wav
      
   ## 마이크 테스트
-     - arecord --format=S16_LE --duration=5 --rate=16000 --file-type=raw out.raw
+      arecord --format=S16_LE --duration=5 --rate=16000 --file-type=raw out.raw
      
-     - aplay --format=S16_LE --rate=16000 out.raw
+      aplay --format=S16_LE --rate=16000 out.raw
      
      
