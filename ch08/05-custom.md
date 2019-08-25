@@ -7,9 +7,9 @@
             continue_conversation = assistant.assist()
             
 ## GPIO 버튼으로 시작
-   #click.pause(info='Press Enter to send a new request...')           
-                GPIO.setup(23, GPIO.IN)
-                GPIO.wait_for_edge(23, GPIO.FALLING)
+        #click.pause(info='Press Enter to send a new request...')           
+        GPIO.setup(23, GPIO.IN)
+        GPIO.wait_for_edge(23, GPIO.FALLING)
 
 ## 트킨터 버튼으로 시작
   
