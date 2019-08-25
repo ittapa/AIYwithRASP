@@ -1,6 +1,9 @@
 # hotword 라이브러리
 
-## ..
+## issue
+    https://github.com/googlesamples/assistant-sdk-python/issues/313
 
-  sudo apt-get install portaudio19-dev libffi-dev libssl-dev libmpg123-dev
-  python -m pip install --upgrade google-assistant-library==1.0.1
+
+## library 설치
+    sudo apt-get install portaudio19-dev libffi-dev libssl-dev libmpg123-dev
+    python -m pip install --upgrade google-assistant-library==1.0.1
