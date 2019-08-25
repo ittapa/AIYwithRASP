@@ -31,8 +31,27 @@
           else:
               logging.info('Turning device off')
               
+
+## 가상환경에 RPi 라이브러리
+      pip install RPi.GPIO
               
 ## GPIO 제어 코드 추가
-      device_handler = device_helpers.DeviceRequestHandler(device_id)
+      import RPi.GPIO as GPIO
+      
+      
+     
       GPIO.setmode(GPIO.BCM)
-      GPIO.setup(23, GPIO.OUT, initial=GPIO.LOW)
+      GPIO.setup(18, GPIO.OUT, initial=GPIO.LOW)
+
+      GPIO.output(18, 1)
+      GPIO.output(18, 0)
+      
+## 샘플코드 실행
+      python pushtotalk.py
+
+## 말해보기 turn on/ turn off
+
+      
+      
+      
+      
