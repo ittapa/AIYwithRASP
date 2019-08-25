@@ -19,4 +19,4 @@ https://0taeng.tistory.com/33
 
 ## 구글 인공지능 서비스 가이드 공식홈페이지
 
-https://developers.google.com/assistant/sdk/guides/library/python/embed/setup?hardware=rpi
+https://developers.google.com/assistant/sdk/guides/service/python/
