@@ -1,4 +1,4 @@
-# hotword 라이브러리
+# hotword 라이브러리(지원중단)
 
 ## issue
     https://github.com/googlesamples/assistant-sdk-python/issues/313
