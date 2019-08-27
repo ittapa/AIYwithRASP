@@ -1,5 +1,5 @@
 # env 모드
-   source env/bin/activate
+      source env/bin/activate
 
 
 # 예제 코드 다운(GIT CLONE)
