@@ -37,13 +37,12 @@
               
 ## GPIO 제어 코드 추가
       import RPi.GPIO as GPIO
-      
-      
-     
       GPIO.setmode(GPIO.BCM)
       GPIO.setup(18, GPIO.OUT, initial=GPIO.LOW)
 
-      GPIO.output(18, 1)
+
+      GPIO.output(18, 1
+      
       GPIO.output(18, 0)
       
 ## 샘플코드 실행
