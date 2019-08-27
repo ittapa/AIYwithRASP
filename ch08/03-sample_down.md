@@ -10,7 +10,7 @@
     cd google-assistant-sdk/googlesamples/assistant/grpc 
     
 # 예제 코드 실행
-   python3 pushtotalk.py
+            python3 pushtotalk.py
    
 # 예제 코드 실행(한글)
     python3 pushtotalk.py --lang ko-kr
