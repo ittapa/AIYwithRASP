@@ -27,7 +27,7 @@
       type plug
       slave {
         pcm "hw:<card number>,<device number>"
-        rete 16000
+        rate 16000
       }
     }
     
