@@ -5,8 +5,7 @@
 
 
 ### 인증 생성 (ex)
-      google-oauthlib-tool --scope https://www.googleapis.com/auth/assistant-sdk-prototype \
-      --save --headless --client-secrets /path/to/client_secret_client-id.json
+      google-oauthlib-tool --scope https://www.googleapis.com/auth/assistant-sdk-prototype \ --save --headless --client-secrets /path/to/client_secret_client-id.json
       
 ### 인증 생성
       google-oauthlib-tool --scope https://www.googleapis.com/auth/assistant-sdk-prototype \ --save --headless --client-secrets /home/pi/파일명.json
