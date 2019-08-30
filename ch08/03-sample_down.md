@@ -7,7 +7,8 @@
  
  
 # 예제 코드 경로 이동
-    cd google-assistant-sdk/googlesamples/assistant/grpc 
+    cd assistant-sdk-python/google-assistant-sdk/googlesamples/assistant/grpc/
+
     
 # 예제 코드 실행
       python3 pushtotalk.py
