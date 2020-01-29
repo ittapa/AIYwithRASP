@@ -13,7 +13,9 @@
 
 
 ##samba 설정 안될시 참고
+https://m.blog.naver.com/boy4lover/221269161761
 https://0taeng.tistory.com/33
+
 
 ## 구글 인공지능 서비스 가이드 공식홈페이지
 
